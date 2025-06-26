@@ -15,26 +15,6 @@ A smart, clean chatbot built with **Next.js 15**, **TypeScript**, and the **Gemi
 
 ---
 
-## 📁 Project Structure
-
-```
-mychatbot-project/
-├── src/
-│   ├── app/
-│   │   └── page.tsx               # Main chatbot logic
-│   ├── components/ui/            # UI components from ShadCN
-│   ├── lib/utils.ts              # Utility function (cn)
-│   └── types/                    # Type declarations
-├── public/
-├── README.md
-├── package.json
-├── tsconfig.json
-├── next.config.js
-└── tailwind.config.ts
-```
-
----
-
 ## 🚀 How to Run Locally
 
 ```bash
